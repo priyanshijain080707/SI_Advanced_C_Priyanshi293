@@ -1,4 +1,5 @@
-Rotate_Array_by_K_Positions
+// Rotate_Array_by_K_Positions
+
 #include <stdio.h>
 int main()
 {
@@ -22,6 +23,7 @@ int main()
     }
     return 0;
 }
+
 /* OUTPUT
 Array after rotation:
 5 1 2 3 4    */

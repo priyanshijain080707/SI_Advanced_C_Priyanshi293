@@ -1,4 +1,5 @@
-Merge_Two_Sorted_Arrays
+// Merge_Two_Sorted_Arrays
+
 #include <stdio.h>
 int main()
 {
@@ -23,5 +24,6 @@ int main()
         printf("%d ", c[i]);
     return 0;
 }
+
 /* OUTPUT
 Merged Array: 1 2 3 4 6 8 9 11 14 17 19 20 22 25   */

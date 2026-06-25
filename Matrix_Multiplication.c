@@ -1,5 +1,7 @@
 // Matrix_Multiplication
+
 #include <stdio.h>
+
 int main()
 {
     int a[10][10], b[10][10], c[10][10];
@@ -50,6 +52,7 @@ int main()
 
     return 0;
 }
+
 /* OUTPUT
 Enter rows and columns for first matrix: 2 2
 Enter rows and columns for second matrix: 2 2
